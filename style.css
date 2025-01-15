@@ -10,5 +10,4 @@
             cursor: pointer;
             display: inline-block;
         }
- clickCountDisplay.textContent = clickCount;
-        updateUI();
+
